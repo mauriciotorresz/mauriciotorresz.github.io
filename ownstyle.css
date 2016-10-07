@@ -2,3 +2,11 @@
     background-image: url(DoorHandle.jpg);
     color: #eee;
 }
+#howitworks {
+    background-color: #244b6f;
+    color: white;
+}
+.page-header {
+    background-color: #244b6f;
+    color: white;
+}
